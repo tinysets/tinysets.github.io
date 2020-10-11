@@ -1,16 +1,18 @@
 ---
-title: "Jekyll Usage"
-excerpt: "Jekyll博客系统搭建参考文档" #摘要
+classes: wide
+title: "Jekyll博客系统文档"
+last_modified_at: 2020-10-11
+excerpt: "Jekyll博客系统搭建参考文档"
+categories:
+  - blog
 tags:
   - Jekyll
-classes: wide
 ---
 
 Jekyll博客系统搭建参考文档
 
 [Jekyll docs][jekyll-docs]  
 [minimal-mistakes docs][minimal-mistakes]
-
 
 
 
