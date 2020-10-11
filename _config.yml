@@ -61,6 +61,7 @@ author:
   name   : "tinysets"
   avatar : "/assets/images/google.png"
   bio    : "Less is more!"
+  location : "China,Shanghai"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -101,12 +102,12 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
       read_time: false
       comments: false
       share: false
       related: false
       comments: true
+      author_profile: true
   # _pages
   - scope:
       path: "_pages"
