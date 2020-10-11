@@ -1,6 +1,6 @@
 ---
 title: "Jekyll Usage"
-excerpt_separator: <!--excerpt_separator--> #摘要分隔符
+excerpt: "Jekyll博客系统搭建参考文档" #摘要
 tags:
   - Jekyll
 classes: wide

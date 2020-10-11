@@ -100,7 +100,6 @@ defaults:
       comments: false
       share: false
       related: false
-      excerpt_separator: "<!--up_excerpt-->" #摘要分隔符
   # _pages
   - scope:
       path: "_pages"
