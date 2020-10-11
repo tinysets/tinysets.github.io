@@ -90,7 +90,7 @@ algolia:
   powered_by             : true # true (default), false
 
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman_v2", "staticman", "utterances", "custom"
+  provider               : false # false (default), "disqus", "discourse", "facebook", "staticman_v2", "staticman", "utterances", "custom"
   disqus:
     shortname            : "tinysets"
 
