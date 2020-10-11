@@ -88,6 +88,12 @@ algolia:
   search_only_api_key    : 35c37f13ae9be148b39f5054f7ce3c4e # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : true # true (default), false
 
+comments:
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman_v2", "staticman", "utterances", "custom"
+  disqus:
+    shortname            : "tinysets"
+
+
 defaults:
   # _posts
   - scope:
@@ -100,6 +106,7 @@ defaults:
       comments: false
       share: false
       related: false
+      comments: true
   # _pages
   - scope:
       path: "_pages"
