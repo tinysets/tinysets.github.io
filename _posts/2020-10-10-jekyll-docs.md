@@ -2,7 +2,7 @@
 classes: wide
 title: "Jekyll博客系统文档-2020-10-10"
 last_modified_at: 2020-10-11
-# excerpt: "Jekyll博客系统搭建参考文档"
+excerpt: ""
 categories:
   - other
 tags:
