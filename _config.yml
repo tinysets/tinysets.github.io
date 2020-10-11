@@ -78,6 +78,16 @@ footer:
       icon: "fas fa-fw fa-link"
       url: "https://"
 
+
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
+search_provider          : algolia # lunr (default), algolia
+algolia:
+  application_id         : 8HGFCAY8LR # YOUR_APPLICATION_ID
+  index_name             : prod_tinysets # YOUR_INDEX_NAME
+  search_only_api_key    : 35c37f13ae9be148b39f5054f7ce3c4e # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : true # true (default), false
+
 defaults:
   # _posts
   - scope:
