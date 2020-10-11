@@ -1,5 +1,6 @@
 ---
 title: "Jekyll Usage"
+excerpt_separator: <!--excerpt_separator--> #摘要分隔符
 tags:
   - Jekyll
 ---
