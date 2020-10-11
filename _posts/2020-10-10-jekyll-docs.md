@@ -4,7 +4,7 @@ title: "Jekyll博客系统文档"
 last_modified_at: 2020-10-11
 excerpt: "Jekyll博客系统搭建参考文档"
 categories:
-  - blog
+  - other
 tags:
   - Jekyll
 ---
