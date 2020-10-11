@@ -3,6 +3,7 @@ title: "Jekyll Usage"
 excerpt_separator: <!--excerpt_separator--> #摘要分隔符
 tags:
   - Jekyll
+classes: wide
 ---
 
 Jekyll博客系统搭建参考文档
