@@ -106,7 +106,7 @@ defaults:
       comments: false
       share: false
       related: false
-      comments: true
+      comments: false
       author_profile: true
   # _pages
   - scope:
