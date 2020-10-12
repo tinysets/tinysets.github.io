@@ -19,7 +19,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Math in game program.
 github_username: tinysets
 minimal_mistakes_skin: default
-search: true
 
 # Build settings
 markdown: kramdown
@@ -84,7 +83,7 @@ footer:
       url: "mailto:a25335512@gmail.com"
 
 
-search                   : true # true, false (default)
+search                   : false # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : algolia # lunr (default), algolia
 algolia:
