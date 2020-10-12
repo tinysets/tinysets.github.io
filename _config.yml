@@ -67,7 +67,10 @@ author:
       url: "https://github.com/tinysets"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://tinysets.github.io/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:a25335512@gmail.com"
 
 footer:
   links:
@@ -76,7 +79,10 @@ footer:
       url: "https://github.com/tinysets"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://tinysets.github.io/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:a25335512@gmail.com"
 
 
 search                   : true # true, false (default)
