@@ -30,3 +30,14 @@ tags:
 ### Geogebra
 >在线数学工具: 计算机代数, 绘图, 几何, 3D等  
 [Geogebra](https://www.geogebra.org/)
+
+
+### rsync
+>用于两台计算机文件同步，可以差量同步文件，两台机器必须都安装 rsync  
+rsync 默认使用 SSH 进行远程登录和数据传输  
+[rsync](https://www.ruanyifeng.com/blog/2020/08/rsync.html)
+
+
+### WinSCP
+>WinSCP 是一款开源的SFTP图形用户界面软件
+[WinSCP](https://winscp.net/eng/index.php)
